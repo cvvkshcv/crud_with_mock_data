@@ -1,0 +1,16 @@
+{
+    "data": {
+      "resourceTokens": {
+        "total": 100000,
+        "used": 20
+      },
+      "startDate": "2017-01-01T08:00:00.000Z",
+      "endDate": "2027-01-01T08:00:00.000Z",
+      "isExpired": false
+    },
+    "status": {
+      "type": "success",
+      "message": ""
+    },
+    "statusCode": 200
+}

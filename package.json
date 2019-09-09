@@ -1,0 +1,26 @@
+{
+  "name": "crudwithmock",
+  "version": "1.0.0",
+  "description": "Backend less server with crud operation based on file system. No need of backend server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cvvkshcv"
+  },
+  "keywords": [
+    "mock",
+    "mockserver",
+    "jsonserver"
+  ],
+  "author": "Vikash CV <cvvkshcv@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11"
+  }
+}
